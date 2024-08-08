@@ -51,5 +51,3 @@ This is a React application that allows users to manage contacts and view COVID-
    ```bash
    git clone https://github.com/ashutosh07-bot/contact-management-app.git
    cd contact-management-app
-
-
