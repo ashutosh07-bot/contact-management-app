@@ -49,7 +49,7 @@ This is a React application that allows users to manage contacts and view COVID-
 ## Setup
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/ashutosh07-bot/contact-management-app.git
    cd contact-management-app
 
 
